@@ -15,6 +15,7 @@
 		"storage",
 		"contextMenus",
 		"activeTab",
+		"https://github.com/*",
 		"https://api.github.com/*"
 	],
 	"browser_action": {
